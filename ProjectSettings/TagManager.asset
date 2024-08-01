@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Projectiles
+  - Coins
+  - JumpBoots
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Projectiles
+  - Enemies
+  - Environment
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 188953909
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground - Environment
+    uniqueID: 778841065
+    locked: 0
+  - name: Foreground - Pickups
+    uniqueID: 1917162711
+    locked: 0
+  - name: Foreground - Enemies
+    uniqueID: 3328961803
+    locked: 0
+  - name: Foreground - Projectiles
+    uniqueID: 988035353
+    locked: 0
+  - name: Foreground - Player
+    uniqueID: 4024397415
+    locked: 0
+  - name: Foreground - Explosions
+    uniqueID: 1806092795
+    locked: 0
+  - name: Foreground - Water
+    uniqueID: 799586935
+    locked: 0
+  - name: UI
+    uniqueID: 3553237297
+    locked: 0
